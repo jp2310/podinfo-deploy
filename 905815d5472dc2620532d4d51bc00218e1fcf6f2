@@ -1,0 +1,1 @@
+{"jobID":"279e1300-54d0-4560-2e85-677a72d0d9b4","spec":{"type":"policy","cause":{"Message":"","User":"Jasper Pult \u003cjasper.pult@lhind.dlh.de\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
